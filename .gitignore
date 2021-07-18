@@ -1,0 +1,6 @@
+node_modules
+redis_data
+addresses.json
+contracts.json
+info.json
+bot_snipe.js
